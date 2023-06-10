@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maclekoreact/static/css/main.4522c1ea.css",
+    "main.js": "/maclekoreact/static/js/main.77e29bbb.js",
+    "index.html": "/maclekoreact/index.html",
+    "main.4522c1ea.css.map": "/maclekoreact/static/css/main.4522c1ea.css.map",
+    "main.77e29bbb.js.map": "/maclekoreact/static/js/main.77e29bbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4522c1ea.css",
+    "static/js/main.77e29bbb.js"
+  ]
+}
